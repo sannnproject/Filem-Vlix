@@ -1,0 +1,6 @@
+{
+  "name": "FilemVlix",
+  "description": "Modern cinematic streaming platform and media library with zero-database client persistence, rich video playback, and dynamic API abstraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
