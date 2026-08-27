@@ -162,8 +162,8 @@ Restart your dev server, and FilemVlix will immediately connect to the live cata
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/filemvlix.git
-cd filemvlix
+git clone https://github.com/sannnproject/Filem-Vlix
+cd Filem-Vlix
 ```
 
 ### 2. Install dependencies
