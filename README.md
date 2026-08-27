@@ -19,7 +19,7 @@
 
 <br/>
 
-[**Explore Live Demo**](https://ais-dev-ncduk5qxhkhrhgjoyoyk7f-560908820234.asia-southeast1.run.app) • [**Report Bug**](https://github.com/your-username/filemvlix/issues) • [**Request Feature**](https://github.com/your-username/filemvlix/issues)
+[**Report Bug**](https://github.com/your-username/filemvlix/issues) • [**Request Feature**](https://github.com/your-username/filemvlix/issues)
 
 </div>
 
